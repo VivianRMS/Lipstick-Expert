@@ -1,1 +1,0 @@
-{'Long-wearing', 'Waterproof', 'Transfer-proof', 'Hydrating', 'Plumping'}
