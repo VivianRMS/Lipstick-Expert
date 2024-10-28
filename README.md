@@ -50,9 +50,7 @@ The Lipstick Recommendation Engine is a React-based web application designed to 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/ennis-chen/EECS486.git
-cd lipstick-recommendation-engine
-git checkout ui
+git clone https://github.com/VivianRMS/Lipstick-Expert.git
 ```
 
 
